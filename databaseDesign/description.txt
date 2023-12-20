@@ -1,0 +1,1 @@
+# folder for Conceptual Model and Logical Model Design.
